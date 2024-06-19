@@ -31,7 +31,7 @@ nav ul{
 }
 
 nav ul li{
-    display: block;
+    display: inline;
     margin-bottom: 50px;
     margin-top: 20px;
     
@@ -44,8 +44,8 @@ nav ul li a{
     color:white;
 }
 
-a:visited{ color: ;}
-a:link{color: gray;}
+a:visited{ color:blue ;}
+a:link{color: white;}
 a:active{color: yellow;}
 a:hover{
     color:white ;
